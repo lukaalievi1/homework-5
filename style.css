@@ -1,0 +1,122 @@
+
+body{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #282B32;
+    font-family:  'Open Sans',sans-serif;
+    font-size: 1.125rem;
+}
+table, td, th{
+    border: 1px solid #555c66;
+    border-collapse: collapse;
+    margin: 0 auto;
+    margin: top 100px;
+    color: rgb(219, 219, 219);
+    font-family:  'Open Sans',sans-serif;
+    
+    width: 100%;}
+.container{
+    width: 850px;
+    height: 500px;
+    font-family:  'Open Sans',sans-serif;
+}
+
+    
+
+th{
+    padding: 10px;
+    max-width: 100px;   
+    display: table-cell;
+    vertical-align: inherit;
+    font-weight: bold;
+    text-align: center;
+    font-family: 14px 'Open Sans',sans-serif;
+}
+.first {
+    background-color: #ffffff;
+    color: #000000;
+    text-align: left;
+    font-family:  'Open Sans',sans-serif;
+}
+.second {
+    background-color: #ff9a00;
+    color: #ffffff;
+    font-family: 
+     'Open Sans',sans-serif;
+}
+.third {
+    background-color: #eb3c43;
+    color: #ffffff;
+    font-family: 
+     'Open Sans',sans-serif;
+}
+.fourth {
+    background-color: #07b8c8;
+    color: #ffffff;
+    font-family: 
+     'Open Sans',sans-serif;
+
+}
+.secondchild{
+    color: #ff9a00;
+    font-size: 25px;
+    font-weight: bold;
+    font-family:  'Open Sans',sans-serif;
+}
+.thirdchild{
+    color: #eb3c43;
+    font-size: 25px;
+    font-weight: bold;
+    font-family:  'Open Sans',sans-serif;
+}
+.fourthchild{
+    color: #07b8c8;
+    font-size: 25px;
+    font-weight: bold;
+    font-family:  'Open Sans',sans-serif;
+}
+.checkmark{
+    color: #ff9a00;
+    font-size: 25px;
+    font-family:  'Open Sans',sans-serif;
+}
+#first {
+   width: 35%;
+   font-family:  'Open Sans',sans-serif;
+   
+}
+#firstbig {
+    width: 35%;
+    font-family:  'Open Sans',sans-serif;
+    padding: 17px 0;
+    padding-left: 10px;
+}
+#size {
+    width: 20%;
+    text-align: center;
+    font-family:  'Open Sans',sans-serif;
+}
+td{
+    padding: 10px;
+    color: #ffffff;
+    max-width: 100px;
+    font-family:  'Open Sans',sans-serif;
+}
+button{
+    padding: 10px 30px;
+    background-color: #eb3c43;
+    color: #ffffff;
+    border: none;
+    border-radius:25px;
+    text-transform: uppercase;
+    font-family:  'Open Sans',sans-serif;
+}
+.container h1{
+    color: #ffffff;
+    margin: 20px;
+    text-align: center;
+    font-family:  'Open Sans',sans-serif;
+}
+
